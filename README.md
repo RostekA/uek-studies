@@ -23,4 +23,7 @@
    - text generation
      
      Code: https://colab.research.google.com/drive/1cBo0dG5CJtTjA4Uy4W2EWirerzYYW9sE?usp=sharing
+
+   - RAG
      
+     Data: https://drive.google.com/file/d/1XYyZsyF0tBkMBpC2gC653SJR5qoo3yQ6/view?usp=drive_link
