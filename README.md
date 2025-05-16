@@ -4,12 +4,12 @@
 
    Data: https://drive.google.com/file/d/1IKsOYXeakG9Vr5uGw89bShTeeYQ2K_D8
    
-   Code: https://drive.google.com/file/d/1_w8TmHkDmnTbKGVBWjvkn9xqMbXYi5Sf
+   Code: https://drive.google.com/file/d/1_w8TmHkDmnTbKGVBWjvkn9xqMbXYi5Sf/view?usp=sharing
 
-2. Transformers Overview
+3. Transformers Overview
 
    Code:  https://colab.research.google.com/drive/1ipGoaYpKKsKi9cGBjwccfYNj38GiSemG
-3. LLMs
+4. LLMs
    - classification
      
      Code: https://colab.research.google.com/drive/1YbLb8Alljr_7bDGAv8JmUq0AWiFcOjlJ?usp=sharing
